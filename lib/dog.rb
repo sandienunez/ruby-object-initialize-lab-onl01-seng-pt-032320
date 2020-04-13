@@ -12,3 +12,4 @@ class Dog
     @breed = breed_name
   end 
 end 
+timmy = Dog.new("Timmy", "pomeranian") 
