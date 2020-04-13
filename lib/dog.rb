@@ -13,3 +13,4 @@ class Dog
   end 
 end 
 timmy = Dog.new("Timmy", "pomeranian") 
+binding.pry
